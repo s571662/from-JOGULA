@@ -1,7 +1,7 @@
 # KALYAN CHAKRAVARTHY JOGULA
 ###### PARADISE
 I like the restaurant because it has excellent **ambience**, **tasty** food and **hygine maintenance**.
-###Favorite Dishes  Ordered
+### Favorite Dishes  Ordered
 
 -------
 
@@ -10,7 +10,7 @@ I like the restaurant because it has excellent **ambience**, **tasty** food and 
 3. Curd Rice
 4. Panner Pulav
 
-#### Places Nearby Restaurant
+### Places Nearby Restaurant
 * Water Park
 * Exhibition
 * Durgam Cheruvu Bridge
