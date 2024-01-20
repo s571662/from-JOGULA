@@ -2,7 +2,7 @@
 The Bond King,bonds have historically been more conservative and less volatile than stocks, but there are still risks.For instance, there is a credit risk that the bond issuer will default. There is also interest rate risk, where bond prices can fall if interest rates increase.
 ![KALYAN](kalyan.jpeg)
 
-# My Favourite top five playlists songs
+# My Favorite top five playlists songs
 
 -------
 
@@ -15,7 +15,7 @@ One Direction songs are really meaningful,even though the melody is so playful,i
 | Story of my Life | old-fashioned pop music makes me smile and dance | Harry Styles |
 | Steal my girl | Typical boyband,most famous singers who kept their hearts | Louis Tomlinson |
 | Perfect | Sound captivated young fans,attracted substantial attention | Ed Sheeran |
-# Quotes
+# Favorite Quotes
 > Faith is the bird that feels the light when the dawn is still dark. - *Rabindranath Tagore*<br>
 > If you want something done right, do it yourself. - *Charles-Guillaume Etienne*<br>
 
