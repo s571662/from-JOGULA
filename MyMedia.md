@@ -15,6 +15,9 @@ One Direction songs are really meaningful,even though the melody is so playful,i
 | Story of my Life | old-fashioned pop music makes me smile and dance | Harry Styles |
 | Steal my girl | Typical boyband,most famous singers who kept their hearts | Louis Tomlinson |
 | Perfect | Sound captivated young fans,attracted substantial attention | Ed Sheeran |
+# Quotes
+> Faith is the bird that feels the light when the dawn is still dark * Rabindranath tagore
+> If you want something done right, do it yourself * Charles-Guillaume Etienne
 
 
 
