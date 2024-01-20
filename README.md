@@ -15,5 +15,7 @@ I like the restaurant because it has excellent **ambience**, **tasty** food and 
 * Exhibition
 * Durgam Cheruvu Bridge
 
+Check out my media in [MyMedia.md](mymedia.md)
+
 
 
