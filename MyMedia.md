@@ -25,9 +25,11 @@ One Direction songs are really meaningful,even though the melody is so playful,i
 
 The Like command in SQL is used to search for a specified pattern in a column.
 
+```
 SELECT column1, column2, ...
 FROM table_name
 WHERE column LIKE pattern;
+```
 
-[Link to snippet source ](https://code.pieces.app/collections/sql)
+[Link to snippet source](https://code.pieces.app/collections/sql)
 
