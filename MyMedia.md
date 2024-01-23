@@ -31,5 +31,5 @@ FROM table_name
 WHERE column LIKE pattern;
 ```
 
-[Link to snippet source](https://code.pieces.app/collections/sql)
+Link to snippet source <https://code.pieces.app/collections/sql>
 
