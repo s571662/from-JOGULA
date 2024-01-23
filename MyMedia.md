@@ -16,8 +16,9 @@ One Direction songs are really meaningful,even though the melody is so playful,i
 | Steal my girl | Typical boyband,most famous singers who kept their hearts | Louis Tomlinson |
 | Perfect | Sound captivated young fans,attracted substantial attention | Ed Sheeran |
 # Favorite Quotes
-> Faith is the bird that feels the light when the dawn is still dark. - *Rabindranath Tagore*<br>
-> If you want something done right, do it yourself. - *Charles-Guillaume Etienne*<br>
+
+> "Faith is the bird that feels the light when the dawn is still dark." - *Rabindranath Tagore*<br>
+> "If you want something done right, do it yourself." - *Charles-Guillaume Etienne*<br>
 
 -------
 
