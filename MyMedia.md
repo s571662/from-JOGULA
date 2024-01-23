@@ -19,6 +19,15 @@ One Direction songs are really meaningful,even though the melody is so playful,i
 > Faith is the bird that feels the light when the dawn is still dark. - *Rabindranath Tagore*<br>
 > If you want something done right, do it yourself. - *Charles-Guillaume Etienne*<br>
 
+-------
 
+# CODE FENCING
 
+The Like command in SQL is used to search for a specified pattern in a column.
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE column LIKE pattern;
+
+[Link to snippet source ](https://code.pieces.app/collections/sql)
 
